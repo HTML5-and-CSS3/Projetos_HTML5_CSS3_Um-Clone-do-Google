@@ -1,0 +1,28 @@
+Blue
+PANTONE: PMS 660 C
+Hex Color: #4285F4;
+RGB: (66,133,244)
+CMYK: (88,50,0,0)
+Buy Matching Paint
+
+Red
+PANTONE: PMS 7619 C
+Hex Color: #DB4437;
+RGB: (219,68,55)
+CMYK: (0,78,85,12)
+Buy Matching Paint
+
+Yellow
+PANTONE: PMS 123 C
+Hex Color: #F4B400;
+RGB: (244,160,0)
+CMYK: (0,20,90,0)
+Buy Matching Paint
+
+Green
+PANTONE: PMS 7724 C
+Hex Color: #0F9D58;
+RGB: (15,157,88)
+CMYK: (82,0,67,11)
+Buy Matching Paint
+
